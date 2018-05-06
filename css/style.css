@@ -141,6 +141,7 @@ h1, h2, h3, h4, h5, h6, figure {
     display: none;
   }
 }
+
 .fh5co-nav ul {
   padding: 0;
   margin: 5px 0 0 0;
@@ -901,7 +902,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-started {
-  background: rgba(36, 81, 153,1);
+  background: rgba(36, 81, 153, 1);
 }
 #fh5co-started .fh5co-heading {
   margin-bottom: 2em !important;
